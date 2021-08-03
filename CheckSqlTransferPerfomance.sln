@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Querier", "Querier\Querier.csproj", "{C9CB5586-5DCC-4149-8676-CAC403B699CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9CB5586-5DCC-4149-8676-CAC403B699CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9CB5586-5DCC-4149-8676-CAC403B699CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9CB5586-5DCC-4149-8676-CAC403B699CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9CB5586-5DCC-4149-8676-CAC403B699CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
